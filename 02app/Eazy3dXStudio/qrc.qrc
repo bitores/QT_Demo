@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/DragImage.qml</file>
+        <file>qml/logic.js</file>
+    </qresource>
+</RCC>
